@@ -44,6 +44,7 @@ Item	        Descrição
 o que não funciona no sistema- Requisitos não funcionais
 
 Item	             Descrição
+
 01	               Apresentar uma estrutura de fácil compreensão, permitindo que qualquer usuário consiga utilizar o sistema.
 
 02	               Executar as operações matemáticas sem necessidade de cálculos manuais.
