@@ -10,45 +10,50 @@ Seguindo novas instruções: Colocar nome do cliente e vendedor - quantos pedido
 
 bora meninas mulheres! trabalhem meus amores, bjs <3
 
-o que funciona no sistema
 
-Item	Descrição
+parte da analista de requisitos
 
-01	permitir registrar os pedidos dos clientes.
+o que funciona no sistema - Requisito Funcional:
 
-02	apresentar as opções de comidas e bebidas disponíveis no cardápio.
+Item	        Descrição
 
-03	 disponibilizar mini pizza pelo valor de R$ 10,00.
+01	          Cadastrar os pedidos feitos pelos clientes.
 
-04	 disponibilizar Coca-Cola 2 litros pelo valor de R$ 12,00.
+02            Mostrar  as opções de comidas e bebidas disponíveis no cardápio.
 
-05	 disponibilizar costela assada pelo valor de R$ 50,00.
+03	          Incluir no cardápio a mini pizza pelo valor de R$ 10,00.
 
-06	disponibilizar frango assado pelo valor de R$ 45,00.
+04	         Incluir no cardápio a Coca-Cola 2 litros pelo valor de R$ 12,00.
 
-07	 permitir selecionar o produto desejado pelo cliente.
+05	         Oferecer a costela assada pelo valor de R$ 50,00.
 
-08	 permitir informar a quantidade de cada produto solicitado.
+06	         Oferecer o frango assado pelo valor de R$ 45,00.
 
-09	 calcular automaticamente o valor de cada produto conforme a quantidade solicitada.
+07	         Permitir que o cliente selecione o produto desejado pelo cliente.
 
-10	 somar os valores de todos os produtos pedidos.
+08	        Permitir informar a quantidade de cada produto solicitado.
 
-11	 permitir finalizar o pedido ao digitar o número zero.
+09	        Calcular automaticamente o valor de cada produto conforme a quantidade solicitada.
 
-12	 apresentar o valor total consumido pelo cliente ao finalizar o pedido.
+10	         Somar os valores de todos os produtos pedidos.
 
-o que não funciona no sistema
+11	         Permitir finalizar o pedido ao digitar o número zero.
 
-Item	Descrição
+12	         Apresentar o valor total consumido pelo cliente ao finalizar o pedido.
 
-01	 possuir uma interface simples e de fácil utilização.
+o que não funciona no sistema- Requisitos não funcionais
 
-02	 realizar os cálculos automaticamente.
+Item	             Descrição
+01	               Apresentar uma estrutura de fácil compreensão, permitindo que qualquer usuário consiga utilizar o sistema.
 
-03	 apresentar os valores no formato monetário brasileiro (R$).
+02	               Executar as operações matemáticas sem necessidade de cálculos manuais.
 
-04 apresentar as informações de maneira clara e organizada.
+03	               Exibir os preços utilizando o padrão de moeda brasileira, com símbolo R$ e duas casas decimais.
 
-05	 impedir a inclusão de quantidades negativas ou inválidas.
+04	               Organizar os dados do pedido de forma que as informações possam ser identificadas facilmente.
 
+05	              Validar os dados digitados, não permitindo quantidades negativas, vazias ou fora do formato esperado.
+
+06	              Garantir que os preços apresentados correspondam aos valores cadastrados para cada produto.
+
+07	              Permitir que o processo de escolha e finalização dos pedidos aconteça sem erros durante a utilização.
